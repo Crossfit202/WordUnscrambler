@@ -4,7 +4,7 @@ This software is a C++ program that allows the user to specify a grouping of let
 
 My purpose for writing this software is to further my learning as a software engineer and to gain more experience with the C++ programming language. This project allowed me to learn about C++ file I/O, string manipulation, and working with CSV files. I have always wanted to make this program to help me when I play WordScapes with my wife. It provided a great opportunity to discover another programming language that I was unfamiliar with.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/dSLM-TPXMI8)
 
 # Development Environment
 
@@ -24,7 +24,7 @@ A list of websites that I found helpful are as follows:
 - [Word List CSV](https://www-personal.umich.edu/~jlawler/wordlist.html) 
 This is where I downloaded my list of words. It was nearly 70,000 lines long and I was having issues with speed, so I wrote a program in Python to create files based on length and place the words in their respective files. 
 
-- [Python Program]()
+- [Python Program](https://github.com/Crossfit202/WordUnscrambler/blob/master/listCreator.py)
 
 - [W3Schools](https://www.w3schools.com/cpp/default.asp)
 
@@ -40,3 +40,4 @@ There are several improvements and features that I would like to add to this pro
 - Add error handling. (example; case-sensitive issues).
 - Implement a graphical user interface to make the program more user-friendly.
 - Reduce runtime. When you get up near 7 letters, it takes a while to process the list. I want to find a way to improve the speed of the program
+- Add the functionatity of searching a dictionary CSV to get a word defined if you would like
